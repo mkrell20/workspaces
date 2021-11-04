@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "./java/HelloWorld/"
+		},
+		{
+			"path": "java/SampleProject"
+		},
+		{
+			"path": "java/banana"
+		}
+	],
+	"settings": {}
+}
