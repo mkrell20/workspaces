@@ -19,7 +19,10 @@
 			"path": "java/herencia-polimorfisme-i-excepcions-amb-java-mkrell20"
 		},
 		{
-			"path": "java/theatre"
+			"path": "java/p-collections-00-mkrell20"
+		},
+		{
+			"path": "java/monkey"
 		}
 	],
 	"settings": {}
